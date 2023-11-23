@@ -1,6 +1,11 @@
-# Smart Medication Reminder System with ESP32
+# Sistema de Dispensação de Medicamentos Automatizado
 
-Este projeto é um sistema de lembrete de medicamentos inteligente usando o ESP32. Ele é projetado para ajudar idosos e pessoas com Alzheimer a lembrarem-se de tomar seus medicamentos no horário correto.
+## Problema de Saúde Abordado
+Este sistema aborda o desafio enfrentado por idosos e pessoas com Alzheimer em seguir um cronograma de medicamentos. A complexidade do gerenciamento de múltiplos medicamentos e horários específicos pode levar a esquecimentos, 
+o que impacta negativamente a eficácia do tratamento. Além disso, a autonomia reduzida pode tornar difícil para esses indivíduos lembrarem-se de tomar seus remédios no momento correto, aumentando o risco de não conformidade com o tratamento médico.
+
+## Visão Geral da Solução Proposta
+O Sistema de Dispensação de Medicamentos Automatizado é uma solução inovadora para o problema mencionado. Este dispositivo automatizado de dispensação de medicamentos é projetado para fornecer lembretes precisos e oportunos aos usuários, facilitando o cumprimento de seus cronogramas de medicamentos. A combinação de um display I2C para informações visuais, um servo motor para dispensar os medicamentos, um buzzer para alertas sonoros e LEDs indicativos para status do sistema oferece uma abordagem abrangente para garantir que os usuários recebam seus medicamentos conforme prescrito.
 
 ## Recursos
 
