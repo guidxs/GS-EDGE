@@ -19,6 +19,11 @@ Este projeto é um sistema de lembrete de medicamentos inteligente usando o ESP3
 - LEDs (Vermelho e Verde)
 - Botão Simulado
 
+## Simulação
+<p align="center">
+  <img src="https://github.com/guidxs/GS-EDGE/assets/126616600/a376b241-ec7f-4ee5-9887-b4aa06b4b122" alt="Dispositivo">
+</p>
+
 ## Configuração
 
 Certifique-se de ter as bibliotecas necessárias instaladas no Arduino IDE:
